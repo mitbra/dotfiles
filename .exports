@@ -1,0 +1,11 @@
+
+# Set the go path to our workspace
+export GOPATH=$HOME/gows
+
+CDPATH="$GOPATH/src/github.com:"
+CDPATH+="$GOPATH/src/bitbucket.org:"
+CDPATH+="$GOPATH/src/gopkg.in:"
+CDPATH+="$GOPATH/src/code.google.com/p:"
+CDPATH+="$GOPATH/src/launchpad.net:"
+
+export CDPATH
