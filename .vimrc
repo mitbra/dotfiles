@@ -28,7 +28,7 @@ call vundle#end() " required
 filetype plugin indent on
 syntax on
 
-colorscheme Monokai
+colorscheme atom 
  
 " tagbar shortcuts
 nmap <F8> :TagbarToggle<CR>
@@ -48,4 +48,4 @@ set rnu
 " airline settings
 let g:airline_left_sep=''
 let g:airline_right_sep=''
-
+AirlineTheme bubblegum
