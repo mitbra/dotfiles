@@ -19,7 +19,9 @@ Plugin 'bling/vim-airline'
 
 Plugin 'flazz/vim-colorschemes'
 Plugin 'scrooloose/nerdtree'
-"Plugin 'valloric/youcompleteme'
+Plugin 'valloric/youcompleteme'
+
+Plugin 'rking/ag.vim'
  
 Plugin 'nsf/gocode'
 
