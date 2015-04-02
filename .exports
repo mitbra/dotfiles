@@ -9,3 +9,5 @@ CDPATH+="$GOPATH/src/code.google.com/p:"
 CDPATH+="$GOPATH/src/launchpad.net:"
 
 export CDPATH
+
+export PATH=$GOPATH/bin:$PATH
