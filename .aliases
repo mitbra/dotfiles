@@ -2,5 +2,3 @@
 alias g='git'
 
 alias l='ls -lh'
-
-alias gcc=`which gcc-4.9`
