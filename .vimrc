@@ -42,6 +42,7 @@ map <leader>V :e ~/.vimrc<esc>
 " vim-airline seems to need this set
 set laststatus=2
  
+set backspace=indent,eol,start
 set tabstop=4
 
 " Turn on relative number counting in vim. So, so handy.
