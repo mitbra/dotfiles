@@ -39,9 +39,7 @@ nmap <F8> :TagbarToggle<CR>
 map <leader>v :e ~/.vimrc<esc>
 map <leader>V :e ~/.vimrc<esc>
 
-" vim-airline seems to need this set
-set laststatus=2
- 
+set encoding=utf-8
 set backspace=indent,eol,start
 set tabstop=4
 
@@ -49,5 +47,9 @@ set tabstop=4
 set rnu
 
 " airline settings
+
+" vim-airline seems to need this set
+set laststatus=2
+
 let g:airline_left_sep=''
 let g:airline_right_sep=''
