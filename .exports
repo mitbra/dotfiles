@@ -1,6 +1,6 @@
 
 # Set the go path to our workspace
-export GOPATH=$HOME/gows
+export GOPATH=$HOME/gocode
 
 CDPATH="$GOPATH/src/github.com:"
 CDPATH+="$GOPATH/src/bitbucket.org:"
