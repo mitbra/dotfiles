@@ -1,3 +1,6 @@
 [submodule ".vim/pack/nav/start/ctrlp"]
 	path = .vim/pack/nav/start/ctrlp
 	url = https://github.com/kien/ctrlp.vim
+[submodule ".vim/pack/golang/vim-go"]
+	path = .vim/pack/golang/vim-go
+	url = https://github.com/fatih/vim-go.git
