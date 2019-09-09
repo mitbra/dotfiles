@@ -30,7 +30,7 @@ filetype plugin indent off
 filetype plugin indent on
 syntax on
 
-colorscheme atom 
+"colorscheme atom 
  
 " tagbar shortcuts
 nmap <F8> :TagbarToggle<CR>
