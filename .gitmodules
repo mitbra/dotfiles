@@ -4,3 +4,6 @@
 [submodule ".vim/pack/golang/vim-go"]
 	path = .vim/pack/golang/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule ".vim/pack/nav/start/vim-airline"]
+	path = .vim/pack/nav/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
