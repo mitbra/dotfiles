@@ -1,0 +1,3 @@
+[submodule ".vim/pack/nav/start/ctrlp"]
+	path = .vim/pack/nav/start/ctrlp
+	url = https://github.com/kien/ctrlp.vim
